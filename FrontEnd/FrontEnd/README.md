@@ -2,7 +2,7 @@
 
 ## Description:
 * A chat app made by Flutter and Firebase.
-* Support login with google account, chat with any user, send text, image and sticker, update avatar and profile.
+* Just an interface between the Bot and the user (or) The Doctor and the user
 
 ## Screenshot:
 
