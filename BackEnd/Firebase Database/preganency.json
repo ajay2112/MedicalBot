@@ -1,0 +1,31 @@
+{"preganency":{
+    "agebelowthirty":{
+        "First Trimester (Weeks 1 to 13)":{
+            "baby bump":"does not accour until the 2nd trimester (weeks 1 to 13)",
+            "symptoms":"you may notice outward signs of pregnancy before then, like swollen breasts and skin changes \nWhile you may experience some belly changes, this is usually due to pregnancy-related bloating and gas, not baby growth ,nausea, fatigue",
+            "baby growth":"By week 6—halfway through your first trimester—your baby’s tiny face, skull, and brain start to form. His or her hands and feet make their bud-like debut on baby’s tadpole- esque body. By the close of the first trimester, your baby is more than 3 inches long and sports arms, legs, eyes, a beating heart, and more. In fact, all of baby’s organs, muscles, limbs, and even genitals are represented.",
+            "harmone":"the pregnancy hormone human chorionic gonadotropin (hCG) is coursing through your body, doubling every two to three days and peaking at week 10.",
+            "EXAMINATION":"Blood test for blood count, blood and Rh type, fasting sugar; syphilis antibodies, and urine test for general and for culture",
+            "PURPOSE":"Detection of blood deficiency, thalassemia carrier, incompatibility of partner’s blood type, gestational diabetes and occult infection in urine.",
+        },
+        "SECOND TRIMESTER (WEEKS 13 TO 26)":{
+            "BABY BUMP":"(weeks 13 to 26) the baby bump you’ve been anticipating will probably become visible to others around week 20. (Maternity clothes are now in full rotation.) That’s also about the same time you’ll likely start to feel your baby’s first movements.  \nThe uterus, the muscular organ that holds the developing fetus, can expand up to 20 times its normal size during pregnancy.",
+            "SYMPTOMS":"Stretch marks on abdomen, breasts, thighs, or buttocks \nDarkening of the skin around nipples \nBody aches, such as back, abdomen, groin, or thigh pain \nPatches of darker skin, usually over the cheeks, forehead, nose, or upper lip. Patches often match on both sides of the face. This is sometimes called the mask of pregnancy.",
+            "BABY GROWTH":"During this period of tremendous growth, your baby-to-be’s liver, spleen, and thyroid all begin to take on their respective responsibilities. Baby’s brain and nerve endings are mature enough that he or she can now feel touch. His or her soft and flexible skeleton begins to ossify, or harden. And by roughly week 22, his or her tiny heartbeat can actually be heard if your partner puts his or her ear to your abdomen—perhaps some hiccups, too—since your baby is busily swallowing amniotic fluid now. At the same time, baby’s auditory system is developed enough that he or she may be able to hear you, too.",
+            "HARMONE":"formed placenta is generating more progesterone, a hormone needed to keep your uterine lining baby-friendly. And this progesterone-boost allows for a decrease in the production of symptom-causing hCG. As such, you may feel like your pre-pregnancy self again, enjoying an uptick of energy and appetite.",
+            "EXAMINATION":"Ultrasound examination for a “basic” fetal anatomy survey. Or ultrasound examination for a “comprehensive” fetal anatomy survey",
+             "PURPOSE":"Detection of congenital defects or abnormalities in fetal anatomy. The examination is routinely performed in every pregnancy.",
+        },
+        "THIRD TRIMESTER (WEEKS 27 TO 40)":{
+            "BABY BUMP":"Third trimester (week 29- week 40)",
+            "SYMPTOMS":"Shortness of breath \nHeartburn \nSwelling of the ankles, fingers, and face \nThe baby dropping, or moving lower in your abdomen \nContractions, which can be a sign of real or false labor",
+            "BABY GROWTH":"there’s a lot to feel since baby’s movements are more frequent now. Soon, you’ll actually be able to see baby’s kicks and flutters through your belly, too.",
+            "HARMONE":"spurring hemorrhoids \naround week 31, your breasts may begin to leak a creamy yellow or a thin, watery substance called colostrum. In addition, your body is now churning out the hormone relaxin, which loosens the ligaments and bones in your pelvis, allowing for baby to exit smoothly—and also spurring late-in-pregnancy clumsiness. Your estrogen levels are increasing in order to soften (efface) and open (dilate) your cervix. As a result, your mucus plug, which has been shielding your cervix from bacteria, begins to thin.",
+            "EXAMINATION":"Ultrasound examination during the third trimester.",
+            "PURPOSE":"Monitoring of fetal growth and diagnosis of fetal position."
+        }
+    
+        }
+    }
+}
+    

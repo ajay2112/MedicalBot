@@ -1,0 +1,28 @@
+{
+    "MENSTRUALCYCLE":{
+        "PHASES":{
+            "PHASE1":{
+                "NAME":"Menstrual phase (From day 1 to 5) \nMenstrual phase begins on the first day of menstruation and lasts till the 5th day of the menstrual cycle." ,
+                "OCCOURANCE":"The uterus sheds its inner lining of soft tissue and blood vessels which exits the body from the vagina in the form of menstrual fluid. \nBlood loss of 10 ml to 80 ml is considered normal. \nYou may experience abdominal cramps. These cramps are caused by the contraction of the uterine and the abdominal muscles to expel the menstrual fluid.",
+                "CRAMPS RELIEF":"Applying heat on the lower abdomen is the easiest way to control menstrual cramps. Heat helps relax the contracting muscles in the uterus. \nGinger is a wonder herb that can effectively ease menstrual cramps. \nBasil is another very effective herb for reducing menstrual pain and cramps. The caffeic acid present in basil has analgesic, or pain-killing properties. \nCinnamon has antispasmodic, anticlotting and anti-inflammatory properties that can relieve menstrual pain",
+                "EXERCISE":"Pelvic tucks \nTop taps \nThigh dancing \nGlute lifts",
+                "SYMPTOMS":"Beside the bleeding, other signs and symptoms of menstruation may include headache, acne, bloating, pains in the low abdomen, tiredness, mood changes, food cravings, breast soreness, and diarrhea."
+            },
+            "PHASE2":{
+                "NAME":"Follicular phase (day 1-13) \nThis phase also begins on the first day of menstruation, but it lasts till the 13th day of the menstrual cycle.",
+                "OCCURANCE":"The pituitary gland secretes a hormone that stimulates the egg cells in the ovaries to grow. \nOne of these egg cells begins to mature in a sac-like-structure called follicle. It takes 13 days for the egg cell to reach maturity.  \nWhile the egg cell matures, its follicle secretes a hormone that stimulates the uterus to develop a lining of blood vessels and soft tissue called endometrium.",
+                "EXERCISE":"Pelvic tucks \nTop taps \nThigh dancing \nGlute lifts",
+            },
+            "PHASE3":{
+                "NAME":"Ovulation phase (day 14)",
+                "OCCURANCE":"On the 14th day of the cycle, the pituitary gland secretes a hormone that causes the ovary to release the matured egg cell. \nThe released egg cell is swept into the fallopian tube by the cilia of the fimbriae. Fimbriae are finger like projections located at the end of the fallopian tube close to the ovaries and cilia are slender hair like projections on each Fimbria.",
+            },
+            "PHASE4":{
+                "NAME":"Luteal phase (day 15-28) \nThis phase begins on the 15th day and lasts till the end of the cycle.",
+                "OCCURANCE":"The egg cell released during the ovulation phase stays in the fallopian tube for 24 hours. \nIf a sperm cell does not impregnate the egg cell within that time, the egg cell disintegrates. \nThe hormone that causes the uterus to retain its endometrium gets used up by the end of the menstrual cycle. This causes the menstrual phase of the next cycle to begin.",
+
+                
+            }
+    }
+}
+}

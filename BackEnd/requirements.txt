@@ -1,0 +1,8 @@
+Flask==0.10.1
+future==0.16.0
+wolframalpha==3.0
+wikipedia==1.4.0
+python-firebase==1.2
+gcloud==0.18.3
+python-google-places==1.4.1
+pytz==2018.9
