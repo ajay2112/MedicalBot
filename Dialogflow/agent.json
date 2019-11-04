@@ -1,0 +1,444 @@
+{
+  "description": "",
+  "language": "en",
+  "shortDescription": "Small talk topics to help make your bot more personable",
+  "examples": "User: Hello!\nUser: How are you?\nUser: Thank you!\nUser: You\u0027re welcome.\nUser: What\u0027s up?\nUser: I\u0027m bored.\nUser: I\u0027m joking.\nUser: Well done!\nUser: Who are you?\nUser: How old are you?\nUser: You\u0027re clever.\nUser: What do you do for fun?",
+  "activeAssistantAgents": [
+    "smalltalk-domain-on",
+    "smalltalk-fulfillment-on"
+  ],
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": true,
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [
+      {
+        "intentId": "462b6c5f-9a5b-4f4a-9d17-1db5af6d1b31",
+        "signInRequired": true
+      },
+      {
+        "intentId": "47b74765-a721-4414-ae6a-1f5997a45391",
+        "signInRequired": true
+      },
+      {
+        "intentId": "4d4691fd-14eb-47d7-a2fe-c642c1cd8a90",
+        "signInRequired": true
+      },
+      {
+        "intentId": "5537857c-7919-4a00-a574-8474a10aa6e2",
+        "signInRequired": true
+      },
+      {
+        "intentId": "55dbf812-ebf8-49fd-9312-b93cd87883a3",
+        "signInRequired": true
+      },
+      {
+        "intentId": "597657d3-402f-453e-8514-b856769634d5",
+        "signInRequired": true
+      },
+      {
+        "intentId": "5ba89a36-d832-4974-a4c8-edcd3b1dcee6",
+        "signInRequired": true
+      },
+      {
+        "intentId": "5f1c41fc-0644-4c1c-b7bc-b426dabb249f",
+        "signInRequired": true
+      },
+      {
+        "intentId": "36f7cf1a-8142-4fad-b5d1-ff8ba819b979",
+        "signInRequired": true
+      },
+      {
+        "intentId": "5d394683-b7e5-4b44-9ee3-4e823c2adce8",
+        "signInRequired": true
+      },
+      {
+        "intentId": "622b1747-d1c1-4160-9edc-f0bbd8990e7f",
+        "signInRequired": true
+      },
+      {
+        "intentId": "5fca07cf-5202-43fd-a499-c05ea9f32db5",
+        "signInRequired": true
+      },
+      {
+        "intentId": "6fcd9648-9a31-4ae7-bcb5-7c3029b91bf0",
+        "signInRequired": true
+      },
+      {
+        "intentId": "7256b994-a8b7-4df5-8814-f534889f907f",
+        "signInRequired": true
+      },
+      {
+        "intentId": "729df792-a954-45f0-b3ca-94697b62e932",
+        "signInRequired": true
+      },
+      {
+        "intentId": "75e6d4e4-d79e-4d3a-b7dc-b1d4a1cd2ead",
+        "signInRequired": true
+      },
+      {
+        "intentId": "77aaa5a3-534a-4219-903c-c73145d26507",
+        "signInRequired": true
+      },
+      {
+        "intentId": "7bc5fd7b-532b-4307-af37-ff715c6a229e",
+        "signInRequired": true
+      },
+      {
+        "intentId": "7cbb63e5-a8af-4776-bbf2-3c333215bcbf",
+        "signInRequired": true
+      },
+      {
+        "intentId": "056ea2d6-d89a-42e6-9a66-403717fd9458",
+        "signInRequired": false
+      },
+      {
+        "intentId": "fe48eee8-dd03-4f01-a281-8c1617ff95fa",
+        "signInRequired": true
+      },
+      {
+        "intentId": "09052ae9-7a6d-47b0-b0f7-be46695bdb47",
+        "signInRequired": false
+      },
+      {
+        "intentId": "0b80182d-c5ba-4bb9-bbcc-cb9f6cfa5236",
+        "signInRequired": false
+      },
+      {
+        "intentId": "1b6b57cd-7696-43f9-a2c2-c42780c67466",
+        "signInRequired": false
+      },
+      {
+        "intentId": "1ede073a-d64d-48f7-bc3d-23dc2faf752d",
+        "signInRequired": false
+      },
+      {
+        "intentId": "191046d4-a35e-4748-b699-75a66155fb33",
+        "signInRequired": false
+      },
+      {
+        "intentId": "0ed33d86-b61d-4dac-a62d-b08e0e5baaa3",
+        "signInRequired": false
+      },
+      {
+        "intentId": "219efabe-612b-46d5-9adf-34bd44182e6e",
+        "signInRequired": false
+      },
+      {
+        "intentId": "0ecc189a-4119-496e-80d3-c1339278f8d0",
+        "signInRequired": false
+      },
+      {
+        "intentId": "323d08ee-ab0e-4b05-a3c7-4663e659c641",
+        "signInRequired": false
+      },
+      {
+        "intentId": "3c4cf7c3-efc6-4f14-9b62-8d982c6cb526",
+        "signInRequired": false
+      },
+      {
+        "intentId": "27c96ab6-02ab-4d90-8dda-8539ced0b943",
+        "signInRequired": false
+      },
+      {
+        "intentId": "278b6988-e730-4c83-9a5b-032998032946",
+        "signInRequired": false
+      },
+      {
+        "intentId": "3df88320-a971-4d7d-805d-6bdc372a8e3d",
+        "signInRequired": false
+      },
+      {
+        "intentId": "21e50647-adb6-4a6a-abcd-3c9258e1b0e6",
+        "signInRequired": false
+      },
+      {
+        "intentId": "703dd19c-7f88-4069-b858-534633262c5c",
+        "signInRequired": false
+      },
+      {
+        "intentId": "7effe1e0-593a-42db-80bf-a68c26e0774f",
+        "signInRequired": false
+      },
+      {
+        "intentId": "6432ad7d-a01f-4a2a-99c0-1652f1f8477b",
+        "signInRequired": false
+      },
+      {
+        "intentId": "62bf41a4-95fe-46fc-b9fe-163a8b42ab2f",
+        "signInRequired": false
+      },
+      {
+        "intentId": "82e2af70-20f8-46f9-a8d0-9262cf01b82b",
+        "signInRequired": false
+      },
+      {
+        "intentId": "682fc6bd-fda5-4a00-9ef6-2d0c7b0c3121",
+        "signInRequired": false
+      },
+      {
+        "intentId": "874cc13f-dfd3-43f3-a477-5ed896cec94e",
+        "signInRequired": false
+      },
+      {
+        "intentId": "8980035a-0fc0-4ef6-b899-f3dadc0ce84e",
+        "signInRequired": false
+      },
+      {
+        "intentId": "85254d8d-b449-444e-b44a-e072a59e1b7f",
+        "signInRequired": false
+      },
+      {
+        "intentId": "90abb667-20a1-46ec-bea5-bda6e77041bc",
+        "signInRequired": false
+      },
+      {
+        "intentId": "0d002877-ffb7-4c46-b465-ee747c27337a",
+        "signInRequired": false
+      },
+      {
+        "intentId": "975709f9-07e7-4bd3-9f82-9f961c1aeacd",
+        "signInRequired": false
+      },
+      {
+        "intentId": "94e9d0a4-cad1-42e7-82cd-c548ed83270c",
+        "signInRequired": false
+      },
+      {
+        "intentId": "92cac80b-1f12-44c8-9e1d-901d5c6aeb41",
+        "signInRequired": false
+      },
+      {
+        "intentId": "99e0955f-27e7-4d3a-af6b-3ef461bff3f9",
+        "signInRequired": false
+      },
+      {
+        "intentId": "8e1e5f9e-5e57-4199-b27d-691f4e2f204b",
+        "signInRequired": false
+      },
+      {
+        "intentId": "9eb79d3d-1f43-4560-acb4-d3a390bc731c",
+        "signInRequired": false
+      },
+      {
+        "intentId": "9f5be5a6-2f30-4330-95a6-e4212885cd68",
+        "signInRequired": false
+      },
+      {
+        "intentId": "9bcc1c3a-3464-4196-84f8-a3b45de9ac2b",
+        "signInRequired": false
+      },
+      {
+        "intentId": "9f8ced60-c590-46ab-acf7-1fdf58dca30d",
+        "signInRequired": false
+      },
+      {
+        "intentId": "a304c5d2-737f-4f12-9929-bd903ce9db0b",
+        "signInRequired": false
+      },
+      {
+        "intentId": "9b91e4d3-3623-4d8a-984e-cabc05a7e2b0",
+        "signInRequired": false
+      },
+      {
+        "intentId": "abd646e6-053a-491c-a1ed-e6f34cc07fe9",
+        "signInRequired": false
+      },
+      {
+        "intentId": "a9c31588-e1b6-4992-a514-6205f1a5870e",
+        "signInRequired": false
+      },
+      {
+        "intentId": "a902efc3-a3c4-431e-9d54-717ee34500cc",
+        "signInRequired": false
+      },
+      {
+        "intentId": "a5bd1168-b547-43de-886c-dea97ee9e958",
+        "signInRequired": false
+      },
+      {
+        "intentId": "aff21910-42d5-48c1-ab1a-bc5c6fcd7fda",
+        "signInRequired": false
+      },
+      {
+        "intentId": "ae970ca2-8799-44aa-af0e-a5059240c522",
+        "signInRequired": false
+      },
+      {
+        "intentId": "b988240a-4d61-4dc9-aa2d-5b35c0c8998c",
+        "signInRequired": false
+      },
+      {
+        "intentId": "b8d1384c-7469-4f62-a769-cea6417f8201",
+        "signInRequired": false
+      },
+      {
+        "intentId": "b85d151d-5418-4519-b2f4-9e50bb2b674b",
+        "signInRequired": false
+      },
+      {
+        "intentId": "b2a08e4e-a964-483a-a37e-ed8e03422fdd",
+        "signInRequired": false
+      },
+      {
+        "intentId": "ba2d33f9-722d-4a30-9653-45db06039d04",
+        "signInRequired": false
+      },
+      {
+        "intentId": "9ab7572a-ef77-4fe4-a900-b5587b10f011",
+        "signInRequired": false
+      },
+      {
+        "intentId": "bf1bd910-7242-487e-a6d9-788068603231",
+        "signInRequired": false
+      },
+      {
+        "intentId": "bcca7f1e-4ef7-44a0-9792-2ffae83e562b",
+        "signInRequired": false
+      },
+      {
+        "intentId": "bbeb601e-cafc-44cd-b0e3-acbbc3109d68",
+        "signInRequired": false
+      },
+      {
+        "intentId": "bb665d68-34d3-4d70-ac94-d58920f03ac8",
+        "signInRequired": false
+      },
+      {
+        "intentId": "b9d7b6de-b60f-43a6-80bb-218810cb6bd7",
+        "signInRequired": false
+      },
+      {
+        "intentId": "bfba1c1f-feba-4b72-b38c-04358d1649c6",
+        "signInRequired": false
+      },
+      {
+        "intentId": "c4c8272c-3e33-411d-b2e3-65df0da10a04",
+        "signInRequired": false
+      },
+      {
+        "intentId": "c4c0222c-52d2-4b4a-ad3e-d4682ad7ef80",
+        "signInRequired": false
+      },
+      {
+        "intentId": "c2b4b784-ace2-4d94-ae50-420be250147d",
+        "signInRequired": false
+      },
+      {
+        "intentId": "c23cfcad-88d7-4724-903d-a088b075feef",
+        "signInRequired": false
+      },
+      {
+        "intentId": "c50c7c63-aa76-4781-ba7d-d9ba4c93df64",
+        "signInRequired": false
+      },
+      {
+        "intentId": "c22aef07-fd62-4f45-b814-48b5960ef380",
+        "signInRequired": false
+      },
+      {
+        "intentId": "d374c8aa-4643-47fe-9eec-e6650bc0d4a2",
+        "signInRequired": false
+      },
+      {
+        "intentId": "d1760f5a-40a9-40c5-a0b8-bb78b6cd6e60",
+        "signInRequired": false
+      },
+      {
+        "intentId": "cf87bf9a-8a5e-4470-abe0-3aed0b8b1cbb",
+        "signInRequired": false
+      },
+      {
+        "intentId": "cbb7fae0-115f-4890-a99d-30b166ecd197",
+        "signInRequired": false
+      },
+      {
+        "intentId": "d4002e1b-ea6d-4f7e-bdbc-36149a653164",
+        "signInRequired": false
+      },
+      {
+        "intentId": "c55ddb16-9499-4dac-9128-0333081c2a53",
+        "signInRequired": false
+      },
+      {
+        "intentId": "e864c1b5-8416-4f43-b660-8fab593ba728",
+        "signInRequired": false
+      },
+      {
+        "intentId": "e4939fd0-ce6f-4694-85c1-51ac0e186eb5",
+        "signInRequired": false
+      },
+      {
+        "intentId": "e2eb7f8d-b37b-4db5-8c0e-4ded1662537a",
+        "signInRequired": false
+      },
+      {
+        "intentId": "dd633ead-4a8d-4daa-984c-5a9b60f088de",
+        "signInRequired": false
+      },
+      {
+        "intentId": "e8c8fbff-6589-44d7-89ae-2e0b23821412",
+        "signInRequired": false
+      },
+      {
+        "intentId": "ed3ca8fb-d293-4b0c-a2d1-c3626a4446bb",
+        "signInRequired": false
+      },
+      {
+        "intentId": "f5df213f-3e58-4010-a545-bd6148aef719",
+        "signInRequired": false
+      },
+      {
+        "intentId": "d9c02eac-5d82-48c4-8dbb-801afc06a739",
+        "signInRequired": false
+      },
+      {
+        "intentId": "f20ee20c-2f24-49b0-a8cf-77da6cccbc33",
+        "signInRequired": false
+      }
+    ],
+    "systemIntents": [],
+    "endIntentIds": [
+      "b2a08e4e-a964-483a-a37e-ed8e03422fdd",
+      "485f81d0-6e6c-4239-a860-e013af4eaeb5",
+      "02a79aa0-fb1c-4f16-b497-26077190a0a6",
+      "080980ca-2b80-46d4-9d25-6e1bcd684bd3"
+    ],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2",
+    "autoPreviewEnabled": true,
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "Asia/Almaty",
+  "webhook": {
+    "url": "https://nemoflutter.herokuapp.com/webhook",
+    "headers": {
+      "": ""
+    },
+    "available": true,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.after",
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [
+    "en-au",
+    "en-ca",
+    "en-gb",
+    "en-us",
+    "hi"
+  ],
+  "onePlatformApiVersion": "v2beta1",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": -0.4,
+  "dialogBuilderMode": false
+}
